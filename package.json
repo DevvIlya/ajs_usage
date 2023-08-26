@@ -1,0 +1,15 @@
+{
+  "name": "ajs_usage",
+  "version": "1.0.0",
+  "description": "Пример использования библиотеки @yi1lei6a3/ajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Ilya Dubinin",
+  "license": "ISC",
+  "dependencies": {
+    "@yi1lei6a3/ajs": "^1.0.0"
+  }
+}
